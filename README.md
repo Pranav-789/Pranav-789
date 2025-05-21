@@ -1,16 +1,30 @@
-## Hi there 👋
+# Pranav Yogesh Zambare
 
-<!--
-**Pranav-789/Pranav-789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**B.Tech CSE | IIIT Pune (2024–2028)**  
+[LinkedIn](https://www.linkedin.com/in/pranav-zambare-41917a310)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👋 About Me
+
+Hey there! I’m Pranav, a Computer Science enthusiast who enjoys building cool stuff on the web, cracking DSA puzzles, and exploring the limitless world of technology. Currently leveling up my skills in web development and DSA, with my sights set on conquering ML & AI next!
+
+---
+
+### 🚀 Skills & Interests
+
+- **Languages:** C++, Python, JavaScript
+- **Web:** HTML, CSS, React, Node.js
+- **Core CS:** Data Structures & Algorithms
+- **Goals:** Machine Learning, Artificial Intelligence
+
+---
+
+### 🌟 Highlights
+
+- **CodeChef Highest Rating:** 1326 (and counting!)
+- **Education:** IIIT Pune, B.Tech CSE (2024–2028)
+
+---
+
+<!-- Projects can go here if you want, or keep it clean and simple! -->
