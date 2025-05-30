@@ -13,8 +13,8 @@ Hey there! I’m Pranav, a Computer Science enthusiast who enjoys building cool 
 
 ### 🚀 Skills & Interests
 
-- **Languages:** C++, Python, JavaScript
-- **Web:** HTML, CSS, React, Node.js
+- **Languages:** C++, JavaScript
+- **Web:** HTML, CSS, JavaScript, MongoDB, React, Node.js
 - **Core CS:** Data Structures & Algorithms
 - **Goals:** Machine Learning, Artificial Intelligence
 
